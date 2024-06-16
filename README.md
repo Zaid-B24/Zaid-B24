@@ -2,7 +2,7 @@
 
 I'm [**Zayd**](https://github.com/Zaid-B24), a final year undergraduate student majoring in Computer Science.
 
-I'm primarily interested in **full-stack development** 
+I'm primarily interested in **full-stack development & Game Development** 
 
 I'm currently exploring new technologies and integrating them into projects with a focus on creating solutions for broader societal impact. Finding fulfillment in my work has always been a driving force for me.
 
