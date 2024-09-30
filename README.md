@@ -11,5 +11,6 @@ Outside of work, I'm interested in following the developments of science. I also
 #### Let's connect!
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/zaid-baig-76a633229/)
 
-![Static Badge](https://img.shields.io/badge/Portfolio-portfolio?logo=aircanada&logoSize=small&color=blue&link=https%3A%2F%2Fzaid-baig.vercel.app%2F)
+![Static Badge](https://img.shields.io/badge/Portfolio-portfolio?logo=aircanada&logoSize=auto&color=blue&link=https%3A%2F%2Fzaid-baig.vercel.app%2F)
+
 
