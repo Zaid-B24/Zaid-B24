@@ -9,8 +9,6 @@ I'm currently exploring new technologies and integrating them into projects with
 Outside of work, I'm interested in following the developments of science. I also play a lot of video games.
 
 #### Let's connect!
-[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/zaid-baig-76a633229/)
 
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/zaid-baig-76a633229/) 
 [<img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=aircanada&logoColor=white" />](https://zaid-baig.vercel.app/)
-
-
