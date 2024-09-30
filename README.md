@@ -14,5 +14,4 @@ Outside of work, I'm interested in following the developments of science. I also
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/zaid-baig-76a633229/) 
 [<img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=aircanada&logoColor=white" />](https://zaid-baig.vercel.app/) 
 [<img alt="Twitter" src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" />](https://x.com/Zaidbaig19)
-[<img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />](#)  
-**Discord:** `Azazel#8848`
+[<img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />](https://discordapp.com/users/790274182989873203)
